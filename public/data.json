@@ -1,0 +1,95 @@
+[
+    {
+      "id": "58943578jo9991",
+      "cover": "https://i.ibb.co/HTNxP2K/2.png",
+      "title": "The Secret of Mystique Manor",
+      "author": "John Smith",
+      "author_img": "https://i.ibb.co/CtjRwDN/boy1.png",
+      "posted_date": "September 14, 2023",
+      "reading_time": 25,
+      "hashtags": ["#Mystery", "#Adventure", "#Bestseller"]
+    },
+    {
+      "id": "58943578jo9992",
+      "cover": "https://i.ibb.co/qDBV3qG/diego-ph-f-Iq0t-ET6llw-unsplash.jpg",
+      "title": "Fantasy Chronicles: The Lost Kingdom",
+      "author": "Emily Johnson",
+      "author_img": "https://i.ibb.co/XypCt6G/boy2.jpg",
+      "posted_date": "September 13, 2023",
+      "reading_time": 20,
+      "hashtags": ["#Fantasy", "#Adventure"]
+    },
+    {
+      "id": "58943578jo9993",
+      "cover": "https://i.ibb.co/MS4ks5J/pakata-goh-EJMTKCZ00-I0-unsplash.jpg",
+      "title": "Science Unleashed: The Future Awaits",
+      "author": "Michael Anderson",
+      "author_img": "https://i.ibb.co/gdtXpBp/girl1.jpg",
+      "posted_date": "September 12, 2023",
+      "reading_time": 18 ,
+      "hashtags": ["#Science", "#Technology"]
+    },
+    {
+      "id": "458943578jo999",
+      "cover": "https://i.ibb.co/bXCmKLt/jr-korpa-n-C9u-EFwk-U-unsplash.jpg",
+      "title": "Romantic Escapades: Love in Paris",
+      "author": "Sophia Clark",
+      "author_img": "https://i.ibb.co/4RsLFk2/jakayla-toney-3r-K9-9-P-o0-unsplash.jpg",
+      "posted_date": "September 11, 2023",
+      "reading_time": 15 ,
+      "hashtags": ["#Romance", "#Paris", "#LoveStory"]
+    },
+
+    {
+      "id": "558943578jo999",
+      "cover": "https://i.ibb.co/X4Nr8K7/michael-dziedzic-g-EN5-Btvf2-Eg-unsplash.jpg",
+      "title": "The Art of Cooking: Culinary Masterpieces",
+      "author": "David Lee",
+      "author_img": "https://i.ibb.co/88g08FY/girl2.jpg",
+      "posted_date": "September 10, 2023",
+      "reading_time": 30 ,
+      "hashtags": ["#Cooking", "#Cuisine", "#FoodArt"]
+    },
+    {
+      "id": "58943578jo9996",
+      "cover": "https://i.ibb.co/2Mb5nsx/igor-kasalovic-1-FBXnraod7-A-unsplash.jpg",
+      "title": "Historical Odyssey: Tales of Ancient Civilizations",
+      "author": "Elizabeth Turner",
+      "author_img": "https://i.ibb.co/JBTDQxF/marcos-paulo-prado-Pn-Er-HCrt-Xnw-unsplash.jpg",
+      "posted_date": "September 9, 2023",
+      "reading_time": 22 ,
+      "hashtags": ["#History", "#AncientCivilizations"]
+    },
+    {
+      "id": "58943578jo9997",
+      "cover": "https://i.ibb.co/1frfrBR/greg-rakozy-o-Mp-Az-DN-9-I-unsplash.jpg",
+      "title": "Thrills and Chills: Suspenseful Stories",
+      "author": "Robert Harris",
+      "author_img": "https://i.ibb.co/9sp9CZV/paul-white-Wop-H6hu6zv-Y-unsplash.jpg",
+      "posted_date": "September 8, 2023",
+      "reading_time": 28 ,
+      "hashtags": ["#Thriller", "#Suspense"]
+    },
+    {
+      "id": "58943578jo9998",
+      "cover": "https://i.ibb.co/c6bCpxJ/safar-safarov-MSN8-TFh-J0is-unsplash.jpg",
+      "title": "Travel Tales: Around the World in 80 Days",
+      "author": "Anna Patel",
+      "author_img": "https://i.ibb.co/pWDP7wV/profile.png",
+      "posted_date": "September 7, 2023",
+      "reading_time": 35 ,
+      "hashtags": ["#Travel", "#Adventure"]
+    },
+    {
+      "id": "58943578jo999",
+      "cover": "https://i.ibb.co/YktZ70b/ales-nesetril-Im7l-Zjxe-Lhg-unsplash.jpg",
+      "title": "The Science of the Universe",
+      "author": "Richard Johnson",
+      "author_img": "https://i.ibb.co/Jxz1tDN/sigmund-a19-OVaa2rz-A-unsplash.jpg",
+      "posted_date": "September 6, 2023",
+      "reading_time": 19 ,
+      "hashtags": ["#Science", "#Cosmology"]
+    }
+  ]
+  
+  
